@@ -1674,7 +1674,7 @@ input, select, textarea {
 			top: 0;
 			visibility: hidden;
 			width: 100%;
-			z-index: -1;
+			z-index: 1;
 		}
 
 			body.ie #main:after {
