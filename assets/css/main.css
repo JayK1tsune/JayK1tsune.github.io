@@ -83,7 +83,7 @@ canvas, details, embed, figure, figcaption,
 footer, header, hgroup, menu, nav, output, ruby,
 section, summary, time, mark, audio, video {
 	margin: auto;
-	padding: 0;
+	padding: 2;
 	border: auto;
 	font-size: 100%;
 	font: inherit;
