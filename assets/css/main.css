@@ -83,11 +83,11 @@ canvas, details, embed, figure, figcaption,
 footer, header, hgroup, menu, nav, output, ruby,
 section, summary, time, mark, audio, video {
 	margin: auto;
-	padding: 50%;
+	padding: 0;
 	border: auto;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: middle;}
+	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
