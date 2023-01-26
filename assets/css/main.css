@@ -84,7 +84,7 @@ footer, header, hgroup, menu, nav, output, ruby,
 section, summary, time, mark, audio, video {
 	margin: auto;
 	padding: 2;
-	border: auto;
+	border: 2;
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;}
